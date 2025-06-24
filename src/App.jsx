@@ -61,7 +61,6 @@ function App() {
   const handleSubmit = () => {
     if(input === cards[index].answer){
       setCorrect(true)
-      setShowModal(true)
   }
     else { 
       setCorrect(false)

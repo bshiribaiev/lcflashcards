@@ -1,4 +1,4 @@
-*lcflashcards*
+## lcflashcards
 
 This web app: **tests pattern and algorithms knowledge with quick quizes**
 

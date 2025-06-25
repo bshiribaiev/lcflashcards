@@ -2,7 +2,7 @@
 
 This web app: **tests pattern and algorithms knowledge with quick quizes**
 
-<a href="https://bshiribaiev.github.io/lcflashcards/" /a>
+https://bshiribaiev.github.io/lcflashcards/" 
 
 ## Video Walkthrough
 

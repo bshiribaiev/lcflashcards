@@ -46,8 +46,6 @@ function App() {
     }
   ];
   
-  
-
   const [flipped, setFlipped] = useState(false)
   const [index, setIndex] = useState(0)
   const [input, setInput] = useState('')
